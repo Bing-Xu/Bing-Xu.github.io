@@ -1,3 +1,3 @@
 # Bing-Xu.github.io
-Readme file
-Projects page
+Readme file 
+It is a Projects page
