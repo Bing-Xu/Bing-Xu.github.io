@@ -52,6 +52,17 @@ Appendix
 1. can be assumed to be obtained by *random sampling*. (sometimes cannot be assumed random sampling becasue for example richer family less likely to reveal their wealth when we're trying to study family wealth; data are not independent, ex. study business activity across states, nearby states are influenced by each other; usually ignore this even though not right)
 2. 
 
+**Time Series Data**: consist of observations on a variable or several variables over time.
+1. more difficult to analyze than cross-sectional data: rarely can be assumed to be independent across time.
+2. data frequency at whcih the data are collected is important
+
+**Pooled Cross Section**: cross-sectional data collected in different time perieods.
+
+**Panel or Logitudinal Data**: consists of a time series for each cross-sectional member in the data set. (ex. we have wage, education, and employment history for a set of individuals followed over a ten-year period)
+1. different from pooled cross section is that the *same* cross-sectional units(individuals, firms, or counties in the preceding examples) are followed over a given time period, whereas pooled cross sectional data can be different individuals (ex. the houses sold in 1993 are likely to be different in 1995; if there are any duplicates, the number is likely to be so small as to be unimportant)
+2. having multiple observations on the same units allows us to control for certain unobserved characteristics of individuals, firms, and so on.
+3. use of more than one observation can facilitate causal inference in situations where infeering causality would be very difficult if only a single cross section were available.
+4. panel data allows us to study the importance of lags in behavior or the result of decision making.(it's significant bcz many economic policies can be expected to have an impact only after some time has passed)
 
 
 
