@@ -64,6 +64,14 @@ Appendix
 3. use of more than one observation can facilitate causal inference in situations where infeering causality would be very difficult if only a single cross section were available.
 4. panel data allows us to study the importance of lags in behavior or the result of decision making.(it's significant bcz many economic policies can be expected to have an impact only after some time has passed)
 
+------------- Regression Analysis with Cross-Sectional Data -------------
+Chapter 2. The Simple Regression Model
+
+**Population Regression Function (PRF)**: E(y|x) = bete0 + beta1 * x.
+**Sample Regression Function (SRF)**: y_hat = bete0_hat + beta1_hat * x
+**R-squared**: SSE/SST=1-SSR/SST, also is equivalent to the square of Correlation Coefficient between y_i and y_i_hat 
+
+
 
 
 * **Principal Component Analysis (PCA)**
